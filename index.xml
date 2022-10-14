@@ -12,18 +12,6 @@
     
     
     <item>
-      <title>Jane 主题预览</title>
-      <link>http://w-zzzzzzzzz.github.io/post/jane-theme-preview/</link>
-      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>http://w-zzzzzzzzz.github.io/post/jane-theme-preview/</guid>
-      
-        <description>&lt;p&gt;主题预览,内容有待填充。&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
       <title>About</title>
       <link>http://w-zzzzzzzzz.github.io/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
@@ -44,14 +32,16 @@
     </item>
     
     <item>
-      <title>First</title>
+      <title>第一篇博客</title>
       <link>http://w-zzzzzzzzz.github.io/post/first/</link>
       <pubDate>Fri, 14 Oct 2022 15:30:05 +0800</pubDate>
       
       <guid>http://w-zzzzzzzzz.github.io/post/first/</guid>
       
         <description>&lt;h3 id=&#34;这是一篇测试博客&#34;&gt;这是一篇测试博客&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://s1.ax1x.com/2022/10/14/xwkflq.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img src=&#34;https://s1.ax1x.com/2022/10/14/xwkflq.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;第二个标题&#34;&gt;第二个标题&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://s1.ax1x.com/2022/10/14/xwPznS.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     
